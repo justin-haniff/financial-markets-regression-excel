@@ -19,4 +19,3 @@ The regression results indicate that each stock’s returns are positively relat
 
 ## Tools
 - Microsoft Excel
-- 
